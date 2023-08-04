@@ -1,6 +1,16 @@
-# Bem-vindo(a) ao perfil do prof-danielcorrea 😁
+## Olá, sejam bem-vindos ao meu perfil. 😁
 
-## Github Statistics 📈
+### Meu nome é Daniel Correa, sou Graduado em Gestão da Tecnologia, cursando especialização em Desenvolvimento Web. 
+
+### Desenvolvedor Web
+
+👨‍💻 Em busca de novas oportunidades e desafios.<br>
+📚 Conhecimento em tecnologias de Frontend e Backend, HTML, CSS, JS, ReactJS, NodeJS, Typescript, Sass, Banco de Dados, Redes, etc 😅<br>
+👷‍♂️ Ao longo de minhas experiências profissionais pude desenvolver melhor minhas hard skills, além de aprender novas.<br>
+💪🏼 Metas futuras: Continuar em constante estudo para sempre poder acompanhar as novas tecnologias.<br>
+⚡ Quem eu sou: Profissional proativo, curioso, sempre buscando aprimorar meus conhecimentos e adquirir novos.<br>
+
+### Github Statistics 📈
 
 
  <div>
@@ -10,7 +20,7 @@
 </div>
   
 
-  ## Entre em contato 📝
+  ### Entre em contato 📝
  
 <div> 
 
@@ -20,7 +30,7 @@
 
  </div>
 
-## Languages and Tools 🛠
+### Languages and Tools 🛠
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
