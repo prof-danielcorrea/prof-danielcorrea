@@ -5,7 +5,7 @@
 ### Desenvolvedor Web
 
 👨‍💻 Em busca de novas oportunidades e desafios.<br>
-📚 Tenho conhecimento em tecnologias de Frontend e Backend, HTML, CSS, JS, ReactJS, NodeJS, Typescript, Sass, Banco de Dados, Redes, etc 😅<br>
+📚 Possuo conhecimento em tecnologias de Frontend e Backend, HTML, CSS, JS, ReactJS, NodeJS, Typescript, Sass, Banco de Dados, Redes, etc 😅<br>
 👷‍♂️ Ao longo de minhas experiências profissionais pude desenvolver melhor minhas hard skills, além de aprender novas.<br>
 💪🏼 Metas futuras: Continuar em constante estudo para sempre poder acompanhar as novas tecnologias.<br>
 ⚡ Quem eu sou: Profissional proativo, curioso, sempre buscando aprimorar meus conhecimentos e adquirir novos.<br>
