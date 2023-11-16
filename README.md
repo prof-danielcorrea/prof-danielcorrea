@@ -1,6 +1,7 @@
 ## Olá, sejam bem-vindos ao meu perfil. 😁
 
-### Meu nome é Daniel Correa, sou Graduado em Gestão da Tecnologia, cursando especialização em Desenvolvimento Web. 
+### Meu nome é Daniel Correa, sou Graduado em Gestão da Tecnologia, cursando especialização em Desenvolvimento Web.
+### Criei está conta no github para realização de testes de conhecimentos pessoais e também para utilizar com meus alunos de Des.Web no curso técnico de informática.
 
 ### Desenvolvedor Web
 
