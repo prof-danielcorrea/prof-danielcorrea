@@ -34,7 +34,12 @@
 ### Languages and Tools 🛠
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"> 
+  <img align="center" alt="CSS" height="35" width="35" src="https://github.com/prof-danielcorrea/prof-danielcorrea/assets/138734247/4cb3f9e5-1fb6-4d48-ae64-5a8cdada4720"> 
+  <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="CSS" height="35" width="60" src="https://github.com/prof-danielcorrea/prof-danielcorrea/assets/138734247/ae8427ba-6b68-435c-bde8-549f27176e32"> 
+
+
 </div>
